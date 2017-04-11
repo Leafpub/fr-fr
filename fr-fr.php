@@ -267,5 +267,6 @@ return [
     'thousands_separator' => ' ',
 
     'language_code' => 'fr-fr',
-    'language_name' => 'Français (FR)'
+    'language_name' => 'Français (FR)',
+    'language_version' => '1.0.0'
 ];
